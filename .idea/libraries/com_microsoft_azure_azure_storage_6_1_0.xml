@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.microsoft.azure:azure-storage:6.1.0" type="repository">
+    <properties maven-id="com.microsoft.azure:azure-storage:6.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/azure-storage-6.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-keyvault-core-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
